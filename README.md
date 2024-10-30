@@ -17,12 +17,4 @@ Team A:
 - Alisha Start
 - Hannah Yoo
 - Alvin Waigwa
-
-Team A:
-- Esther Asuquo
-- Alina Sainju
-- Ashley Spronk
-- Alisha Start
-- Hannah Yoo
-- Alvin Waigwa
     
