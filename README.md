@@ -8,11 +8,13 @@ Whether you're aiming to save more, track specific spending categories, or under
 
 Together, let’s be Centsible!
 
+[Domain Model](./design.md)
+
 Team A:
+
 - Esther Asuquo
 - Alina Sainju
 - Ashley Spronk
 - Alisha Start
 - Hannah Yoo
 - Alvin Waigwa
-    
