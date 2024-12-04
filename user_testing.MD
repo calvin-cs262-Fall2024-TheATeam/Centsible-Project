@@ -12,7 +12,7 @@ For the test, we’ll ask you to do certain tasks, and we’d like you to think 
 
 <b>Background Questions</b>
 
-We presume that you are a college student who has some level of control over your finances.
+<i>We presume that you are a college student who has some level of control over your finances.</b>
 
 Do you currently use any form of budget management on a spreadsheet or an app?
 
@@ -29,9 +29,9 @@ Before we begin, do you have any questions for us?
 3. How much do you have left in your budget in the Food category?
 4. Imagine that you want to start taking the bus more often, and you want to budget $10.00 for the fare for the month. Add this to your budget.
 Identify a category that is currently over budget. 
-5. Find a list of the expenses under the category “Food”
+5. Find a report of the expenses under the category “Food”
 6. Find the list of all transactions from the month
-7. Find more details about transaction of $50.00 for category “food” on October 28
+7. Find the description about the transaction of $50.00 for category “food” on October 28
 8. Add a transaction for an income of $50.00 that was received on November 10, 2024
 9. Add expense of $40.00 in category “transportation” on the current date
 10. Find the details of transaction you just added
