@@ -4,8 +4,7 @@
 
 The usability test included the following instructions:
 
--Open the app and login in with the given credentials (user@example.com, password)
-
+- Open the app and login in with the given credentials (user@example.com, password)
 - Take a second to look at the home page – is it clear to you what all the elements are for?
 - How much do you have left in your budget in the Food category?
 - Imagine that you want to start taking the bus more often, and you want to budget $10.00 for the fare for the month. Add this to your budget.
@@ -39,6 +38,7 @@ The constructive feedback/suggestions/observations received:
 - Error popping at the bottom of the Reports Tab
 
 <b> Future plans: </b>
+
 We have addressed and implemented needed changes for multiple of the feedback points from the usability tests already. Some of them are:
 
 - The updated UI for the Budget tab has taken care of the confusion caused by the slash between the spent amount and budgeted amount.
