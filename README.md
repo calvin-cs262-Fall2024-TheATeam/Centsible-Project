@@ -8,12 +8,12 @@ Whether you're aiming to save more, track specific spending categories, or under
 
 Together, let’s be Centsible!
 
-[Domain Model](/images/Domain%20Model.png)
-[UI Model](/images/UI%20Model.png)
-[Usability Test Script](/documents/UsabilityTestScript.MD)
-[Usability Test Report](/documents/UsabilityTestReport.md)
-[Centsible Client](https://github.com/calvin-cs262-Fall2024-TheATeam/Centsible-Client?tab=readme-ov-file)
-[Centsible Service](https://github.com/calvin-cs262-Fall2024-TheATeam/Centsible-Service)
+[Domain Model](/images/Domain%20Model.png) <br>
+[UI Model](/images/UI%20Model.png) <br>
+[Usability Test Script](/documents/UsabilityTestScript.MD)<br>
+[Usability Test Report](/documents/UsabilityTestReport.md)<br>
+[Centsible Client](https://github.com/calvin-cs262-Fall2024-TheATeam/Centsible-Client?tab=readme-ov-file)<br>
+[Centsible Service](https://github.com/calvin-cs262-Fall2024-TheATeam/Centsible-Service)<br>
 [Censible Trello Board](https://trello.com/b/TxkbVRhz/cs262-theateam)
 
 Team A:
