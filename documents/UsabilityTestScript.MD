@@ -1,8 +1,8 @@
-# Centsible User Testing Script
+# Centsible Usability Test Script
 
 <b> Introduction </b>
 
-Thank you for agreeing to do this usability test for our app Centsible. Centsible is a simple budgeting app where you can create a budget, organize your expenses and incomes, and see reports of your spending from the month. We are doing this test to understand what it’s like for real people to use the app, and we will use the results to improve the app. 
+Thank you for agreeing to do this usability test for our app Centsible. Centsible is a simple budgeting app where you can create a budget, organize your expenses and incomes, and see reports of your spending from the month. We are doing this test to understand what it’s like for real people to use the app, and we will use the results to improve the app.
 
 To be clear, we are testing the app, not you. You can’t do anything wrong here. If you run into a problem or get confused, that is a problem for us to fix. We want to hear exactly what you think about the app, and don’t worry about hurting our feelings. That will help us find the problems so that we can fix them.
 
@@ -28,7 +28,7 @@ Before we begin, do you have any questions for us?
 2. Take a second to look at the home page – is it clear to you what all the elements are for?
 3. How much do you have left in your budget in the Food category?
 4. Imagine that you want to start taking the bus more often, and you want to budget $10.00 for the fare for the month. Add this to your budget.
-Identify a category that is currently over budget. 
+   Identify a category that is currently over budget.
 5. Find a report of the expenses under the category “Food”
 6. Find the list of all transactions
 7. Find the description about the transaction of $50.00 for category “food” on October 28
