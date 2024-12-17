@@ -10,6 +10,7 @@ Together, let’s be Centsible!
 
 [Domain Model](/images/Domain%20Model.png) <br>
 [UI Model](/images/UI%20Model.png) <br>
+[Deployment Diagram](/images/Deployment%20Diagram.png) <br>
 [Usability Test Script](/documents/UsabilityTestScript.MD)<br>
 [Usability Test Report](/documents/UsabilityTestReport.md)<br>
 [Centsible Client](https://github.com/calvin-cs262-Fall2024-TheATeam/Centsible-Client?tab=readme-ov-file)<br>
